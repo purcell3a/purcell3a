@@ -20,3 +20,4 @@ I'm a new Dev exploring the space and expanding my front-end skills.
 
 
 ![Angela's GitHub stats](https://github-readme-stats.vercel.app/api?username=purcell3a&count_private=true&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purcell3a&layout=compact)
