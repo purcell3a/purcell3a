@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a new Dev exploring the space and expanding my front-end skills.
+I'm a new Dev exploring the space and expanding my front-end skills. 
