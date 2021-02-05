@@ -4,7 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="">
     <img src="https://res.cloudinary.com/purcella/image/upload/v1612552555/testFolder/logo_ypzjve.jpg" alt="Logo" width="80" height="80">
   </a>
 
@@ -14,18 +14,18 @@
     I'm a new Dev exploring the space and expanding my front-end skills. 
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">Linkedin</a>
+    <a href="https://www.linkedin.com/in/purcell3a/">Linkedin</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Twitter</a>
+    <a href="https://twitter.com/Purcell3_a">Twitter</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Other</a>
+    <a href="">Kalmpurcell@gmail.com</a>
   </p>
 </p>
 
 ![Angela's GitHub stats](https://github-readme-stats.vercel.app/api?username=purcell3a&count_private=true&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purcell3a&layout=compact)
 ![Angela's GitHub stats](https://github-readme-stats.vercel.app/api?username=purcell3a&count_private=true&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purcell3a&layout=compact)
+
 
 <!-- ABOUT THE PROJECT -->
 ## About Me
