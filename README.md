@@ -31,16 +31,16 @@
 
 🔭 I’m currently working on Moral Authority and purcell3a.github.io.
 
-<br />
+
 🌱 I’m currently learning through applying security measures starting with user authentication to Moral Authority and mobile friendly design to purcell3a.github.io. 
 
-<br />
+
 👯 I’m collaborating on a group project called pour-decisions with some Hackbright Alumni, which pairs wine and cheese together for users. 
 
-<br />
+
 🤔 I’m looking for help with feedback. I love feedback. If you see anything amiss with my code/profile please feel welcome to drop a comment or send me a message.
 
-<br />
+
 😄 Pronouns: she/her
 
 ### Built With
