@@ -8,7 +8,7 @@
     <img src="https://res.cloudinary.com/purcella/image/upload/v1612552555/testFolder/logo_ypzjve.jpg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Hi there!</h3>
+  <h3 align="center">Hi there! 👋🏻</h3>
 
   <p align="center">
     I'm a new Dev exploring the space and expanding my front-end skills. 
