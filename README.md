@@ -8,7 +8,7 @@
     <img src="https://res.cloudinary.com/purcella/image/upload/v1612552555/testFolder/logo_ypzjve.jpg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Hi there! 👋🏻</h3>
+  <h3 align="center">Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
 
   <p align="center">
     I'm a new Dev exploring the space and expanding my front-end skills. 
@@ -60,6 +60,7 @@
 
 * [README Stats](https://github.com/anuraghazra/github-readme-stats)
 * [Template](https://github.com/othneildrew/Best-README-Template)
+* [Waving Hand](https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7)
 
 
 <!-- ACKNOWLEDGEMENTS -->
