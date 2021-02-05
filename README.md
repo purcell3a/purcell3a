@@ -1,6 +1,7 @@
 <!--
 **purcell3a/purcell3a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -61,6 +62,8 @@
 * [README Stats](https://github.com/anuraghazra/github-readme-stats)
 * [Template](https://github.com/othneildrew/Best-README-Template)
 * [Waving Hand](https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7)
+* [Quotes](https://github.com/shravan20/github-readme-quotes/blob/main/README.md)
+
 
 
 <!-- ACKNOWLEDGEMENTS -->
