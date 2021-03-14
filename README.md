@@ -1,7 +1,6 @@
 <!--
 **purcell3a/purcell3a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -12,7 +11,7 @@
   <h3 align="center">Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
 
   <p align="center">
-    I'm a new Dev exploring the space and expanding my front-end skills. 
+    I'm a new Dev exploring the space and expanding my skills. 
     <br />
     <br />
     <a href="https://www.linkedin.com/in/purcell3a/">Linkedin</a>
