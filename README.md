@@ -42,17 +42,17 @@
 <!-- ABOUT THE PROJECT -->
 ## About Me
 
-🔭 I’m currently working on Moral Authority and purcell3a.github.io.
+🔭 I’m currently working on reformating the file format on my hard drive so I can use a case sensitive software to redesign purcell3a.github.io! (Which really just means it's the next big thing I've been putting off) 
 
 
-🌱 I’m currently learning through applying security measures starting with user authentication to Moral Authority and mobile friendly design to purcell3a.github.io. 
+🌱 I’m currently learning Go for my first job! 
 
 
-👯 I’m collaborating on a group project called pour-decisions with some Hackbright Alumni, which pairs wine and cheese together for users. 
+👯 I’m collaborating on a group project called pour-decisions with some Hackbright Alumni, which pairs wine and cheese together for users and a Chia farm with my partner. 
 
 
-🤔 I’m looking for help with feedback. I love feedback. If you see anything amiss with my code/profile please feel welcome to drop a comment or send me a message.
-
+🤔 I’m always looking for feedback and cool resources to help me learn more about software security 
+ 
 
 😄 Pronouns: she/her
 
