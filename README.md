@@ -45,13 +45,13 @@
 🔭 I’m currently working on reformating the file format on my hard drive so I can use a case sensitive software to redesign purcell3a.github.io! (Which really just means it's the next big thing I've been putting off) 
 
 
-🌱 I’m currently learning Go for my first job! 
+🌱 I’m currently learning Go in my first job! 
 
 
 👯 I’m collaborating on a group project called pour-decisions with some Hackbright Alumni, which pairs wine and cheese together for users and a Chia farm with my partner. 
 
 
-🤔 I’m always looking for feedback and cool resources to help me learn more about software security 
+🤔 I’m currently exploring web3 and interested in any resources for blockchain and smart contracts! 
  
 
 😄 Pronouns: she/her
