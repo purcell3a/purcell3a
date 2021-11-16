@@ -11,7 +11,7 @@
   <h3 align="center">Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
 
   <p align="center">
-    I'm a new Dev exploring the space and expanding my skills. 
+    I'm a Full Stack Engineer that Lives on the Backend.  
     <br />
     <br />
     <a href="https://www.linkedin.com/in/purcell3a/">Linkedin</a>
@@ -48,10 +48,10 @@
 🌱 I’m currently learning Go in my first job! 
 
 
-👯 I’m collaborating on a group project called pour-decisions with some Hackbright Alumni, which pairs wine and cheese together for users and a Chia farm with my partner. 
+👯 I’m currently learning about the web3 space and looking for ways to contribute and build! 
 
 
-🤔 I’m currently exploring web3 and interested in any resources for blockchain and smart contracts! 
+🤔 I’m interested in any resources for blockchain and smart contracts! 
  
 
 😄 Pronouns: she/her
