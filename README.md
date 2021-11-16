@@ -11,7 +11,7 @@
   <h3 align="center">Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
 
   <p align="center">
-    I'm a Full Stack Engineer that Lives on the Backend.  
+    I'm a Full Stack Engineer that lives on the Backend.  
     <br />
     <br />
     <a href="https://www.linkedin.com/in/purcell3a/">Linkedin</a>
