@@ -45,13 +45,13 @@
 🔭 I’m currently working on reformating the file format on my hard drive so I can use a case sensitive software to redesign purcell3a.github.io! (Which really just means it's the next big thing I've been putting off) 
 
 
-🌱 I’m currently learning Go in my first job! 
+🌱 I’m currently digging in to Blockchain consensus protocals & security! 
 
 
-👯 I’m currently learning about the web3 space and looking for ways to contribute and build! 
+👯 I’m actively looking for opportunites to contribute and build! 
 
 
-🤔 I’m interested in any resources for blockchain and smart contracts! 
+🤔 I’m interested in any resources related to Blockchain architecture and security! 
  
 
 😄 Pronouns: she/her
