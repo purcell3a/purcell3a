@@ -45,7 +45,7 @@
 🔭 I’m currently working on reformating the file format on my hard drive so I can use a case sensitive software to redesign purcell3a.github.io! (Which really just means it's the next big thing I've been putting off) 
 
 
-🌱 I’m currently digging in to Blockchain consensus protocals & security! 
+🌱 I’m currently digging into Blockchain consensus protocols & security! 
 
 
 👯 I’m actively looking for opportunites to contribute and build! 
