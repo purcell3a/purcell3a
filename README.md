@@ -13,12 +13,10 @@
   <p align="center">
     I'm a Full Stack Engineer that lives on the Backend.  
     <br />
-    <br />
-    <a href="https://www.linkedin.com/in/purcell3a/">Linkedin</a>
+    <br />    
+    <a href="https://twitter.com/nachoshaman">Twitter</a>
     ·
-    <a href="https://twitter.com/Purcell3_a">Twitter</a>
-    ·
-    <a href="">Kalmpurcell@gmail.com</a>
+    <a href="">nachoshaman01@gmail.com</a>
   </p>
 </p>
 
