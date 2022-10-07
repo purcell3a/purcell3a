@@ -4,9 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="">
-    <img src="https://res.cloudinary.com/purcella/image/upload/v1612552555/testFolder/logo_ypzjve.jpg" alt="Logo" width="80" height="80">
-  </a>
+
 
   <h3 align="center">Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
 
