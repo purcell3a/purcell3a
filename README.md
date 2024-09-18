@@ -31,7 +31,7 @@
 
 *NOTE: Top languages does not indicate my skill level, it's a github metric of which languages i have the most code on github publically so this does not include most of my work over the last year in GOLANG or SOLIDITY, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
-![Angela's GitHub stats](https://github-readme-stats.vercel.app/api?username=purcell3a&count_private=true&show_icons=true&theme=radical)
+<!---![Angela's GitHub stats](https://github-readme-stats.vercel.app/api?username=purcell3a&count_private=true&show_icons=true&theme=radical)--->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purcell3a&layout=compact)
 
 
