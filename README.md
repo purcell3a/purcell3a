@@ -47,9 +47,7 @@
 - 🚀 Actively exploring Web3 agents, zero-knowledge verification, and federated graph ecosystems
 - 📦 Strong believer in developer ergonomics, composable tools, and open standards
 - 🌱 Currently reworking my portfolio to better showcase protocol and systems work
- 
-
-😄 Pronouns: she/her
+- 😄 Pronouns: she/her
 
 ## 💡 Interests
 
