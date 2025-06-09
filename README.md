@@ -12,7 +12,7 @@
     I'm Angela, a backend/platform engineer building systems that scale—and matter.
     <br />
     <br /> 
-  Currently working on <a href="https://github.com/Moral-Authority">Moral Authority</a>, an ethical commerce protocol powered by AI agents, federated data, and on-chain trust. I care deeply about building infrastructure that supports transparency, collective ownership, and real-world impact.
+  Currently working on <a href="https://github.com/Moral-Authority">Moral Authority</a> (my ever evolving passion project), an ethical commerce protocol powered by AI agents, federated data, and on-chain trust. I care deeply about building infrastructure that supports transparency, collective ownership, and real-world impact.
     <br />
     <br />    
     <a href="https://twitter.com/nachoshaman">Twitter</a>
