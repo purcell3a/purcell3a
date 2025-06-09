@@ -9,12 +9,15 @@
   <h3 align="center">Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
 
   <p align="center">
-    I'm a Full Stack Engineer that lives on the Backend.  
+    I'm Angela, a backend/platform engineer building systems that scale—and matter.
+    <br />
+    <br /> 
+  Currently working on <a href="https://github.com/Moral-Authority">Moral Authority</a>, an ethical commerce protocol powered by AI agents, federated data, and on-chain trust. I care deeply about building infrastructure that supports transparency, collective ownership, and real-world impact.
     <br />
     <br />    
     <a href="https://twitter.com/nachoshaman">Twitter</a>
     ·
-    <a href="">nachoshaman01@gmail.com</a>
+    <a href="">kalmpurcell@gmail.com</a>
   </p>
 </p>
 
@@ -36,33 +39,42 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About Me
+## 👩‍💻 About Me
 
-🔭 I’m currently working on reformating the file format on my hard drive so I can use a case sensitive software to redesign purcell3a.github.io! (Which really just means it's the next big thing I've been putting off) 
-
-
-🌱 I’m currently digging into Blockchain consensus protocols & security! 
-
-
-👯 I’m actively looking for opportunites to contribute and build! 
-
-
-🤔 I’m interested in any resources related to Blockchain architecture and security! 
+- 🧱 Backend engineer with experience across fintech, crypto, and infrastructure automation
+- 🔄 Founder of **Moral Authority** — a federated, AI-driven protocol for verifying ethical product data
+- 🧠 Passionate about clean architecture, privacy-respecting systems, and collective tech
+- 🚀 Actively exploring Web3 agents, zero-knowledge verification, and federated graph ecosystems
+- 📦 Strong believer in developer ergonomics, composable tools, and open standards
+- 🌱 Currently reworking my portfolio to better showcase protocol and systems work
  
 
 😄 Pronouns: she/her
 
-### Built With
+## 💡 Interests
 
-* [README Stats](https://github.com/anuraghazra/github-readme-stats)
-* [Template](https://github.com/othneildrew/Best-README-Template)
-* [Waving Hand](https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7)
-* [Quotes](https://github.com/shravan20/github-readme-quotes/blob/main/README.md)
+- Autonomous agents + protocol coordination  
+- Federated commerce + open product graphs  
+- On-chain trust, credits systems, and co-ownership  
+- Verifiable claims & impact scoring  
+- Regenerative infrastructure + ethical supply chains
 
+
+## 🛠️ Built With
+
+- **Languages**: Go, Python, Solidity, JavaScript/TypeScript  
+- **Frameworks**: Django, FastAPI, React, GQLGen  
+- **Infra/DevOps**: Postgres, Redis, Docker, Heroku, GCP  
+- **Tooling**: GraphQL, REST, ActivityPub, GitHub Actions, IPFS  
+- **Web3**: Hardhat, ethers.js, Subgraphs, token-gated APIs, wallet auth
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
+* [README Stats](https://github.com/anuraghazra/github-readme-stats)
+* [Template](https://github.com/othneildrew/Best-README-Template)
+* [Waving Hand](https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7)
+* [Quotes](https://github.com/shravan20/github-readme-quotes/blob/main/README.md)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
 * [Choose an Open Source License](https://choosealicense.com)
