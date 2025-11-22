@@ -12,7 +12,7 @@
     I'm Angela, a backend/platform engineer
     <br />
     <br /> 
-  Currently working on <a href="https://github.com/Moral-Authority">MOMM</a> (my ever evolving passion project), an ethical commerce protocol powered by AI agents, federated data, and on-chain trust. I care deeply about building infrastructure that supports transparency, collective ownership, and real-world impact.
+  Currently working on <a href="https://market.momm.group">MOMM</a> (my ever evolving passion project), an ethical commerce protocol powered by AI agents, federated data, and on-chain trust. I care deeply about building infrastructure that supports transparency, collective ownership, and real-world impact.
     <br />
     <br />    
     <a href="https://twitter.com/nachoshaman">Twitter</a>
