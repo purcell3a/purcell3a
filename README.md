@@ -9,10 +9,10 @@
   <h3 align="center">Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
 
   <p align="center">
-    I'm Angela, a backend/platform engineer building systems that scale—and matter.
+    I'm Angela, a backend/platform engineer
     <br />
     <br /> 
-  Currently working on <a href="https://github.com/Moral-Authority">Moral Authority</a> (my ever evolving passion project), an ethical commerce protocol powered by AI agents, federated data, and on-chain trust. I care deeply about building infrastructure that supports transparency, collective ownership, and real-world impact.
+  Currently working on <a href="https://github.com/Moral-Authority">MOMM</a> (my ever evolving passion project), an ethical commerce protocol powered by AI agents, federated data, and on-chain trust. I care deeply about building infrastructure that supports transparency, collective ownership, and real-world impact.
     <br />
     <br />    
     <a href="https://twitter.com/nachoshaman">Twitter</a>
@@ -42,7 +42,7 @@
 ## 👩‍💻 About Me
 
 - 🧱 Backend engineer with experience across fintech, crypto, and infrastructure automation
-- 🔄 Founder of **Moral Authority** — a federated, AI-driven protocol for verifying ethical product data
+- 🔄 Founder of **MOMM** — a federated, AI-driven protocol for verifying ethical product data
 - 🧠 Passionate about clean architecture, privacy-respecting systems, and collective tech
 - 🚀 Actively exploring Web3 agents, zero-knowledge verification, and federated graph ecosystems
 - 📦 Strong believer in developer ergonomics, composable tools, and open standards
